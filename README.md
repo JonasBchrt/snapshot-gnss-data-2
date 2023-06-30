@@ -40,33 +40,33 @@ The data is provided in JSON format.
 
 | dataset   | type     | duration [min] | environment | SnapperGPS board | antenna |
 |-----------|----------|----------------|-------------|------------------|---------|
-| w00.json  | walking  |              5 | park        |           V1.0.0 |         |
-| w01.json  | walking  |              9 | football pitch |        V1.0.0 |         |
-| w02.json  | walking  |              8 | American football pitch | V1.0.0 |       |
-| w03.json  | walking  |             20 | park        |           V1.0.0 |         |
-| w04.json  | walking  |             20 | park        |           V1.0.0 |         |
-| w05.json  | walking  |             20 | park        |           V1.0.0 |         |
-| w06.json  | walking  |             10 | urban       |           V1.0.0 |         |
-| w07.json  | walking  |             30 | meadow      |           V1.0.0 |         |
-| w08.json  | walking  |             30 | meadow      |           V1.0.0 |         |
-| w09.json  | walking  |             45 | meadow      |           V1.0.0 |         |
-| w10.json  | walking  |             45 | meadow      |           V1.0.0 |         |
-| w11.json  | walking  |             50 | park        |           V2.0.0 |         |
-| w12.json  | walking  |             50 | park        |           V2.0.0 |         |
-| w13.json  | walking  |             50 | park        |           V2.0.0 |         |
-| w14.json  | walking  |             50 | park        |           V2.0.0 |         |
-| c00.json  | cycling  |             60 | urban+rural |           V1.0.0 |         |
-| c01.json  | cycling  |             60 | urban+rural |           V1.0.0 |         |
-| c02.json  | cycling  |             60 | urban+rural |           V1.0.0 |         |
-| c03.json  | cycling  |             35 | urban+rural |           V1.0.0 |         |
-| c04.json  | cycling  |             35 | urban+rural |           V1.0.0 |         |
-| c05.json  | cycling  |             35 | urban+rural |           V2.0.0 |         |
-| c06.json  | cycling  |             40 | urban+rural |           V1.0.0 |         |
-| c07.json  | cycling  |             40 | urban+rural |           V2.0.0 |         |
-| c08.json  | cycling  |             40 | urban+rural |           V1.0.0 |         |
-| c09.json  | cycling  |             16 | urban+rural |           V2.0.0 |         |
-| c10.json  | cycling  |             16 | urban+rural |           V2.0.0 |         |
-| c11.json  | cycling  |             16 | urban+rural |           V2.0.0 |         |
+| w00       | walking  |              5 | park        |           V1.0.0 |         |
+| w01       | walking  |              9 | football pitch |        V1.0.0 |         |
+| w02       | walking  |              8 | American football pitch | V1.0.0 |       |
+| w03       | walking  |             20 | park        |           V1.0.0 |         |
+| w04       | walking  |             20 | park        |           V1.0.0 |         |
+| w05       | walking  |             20 | park        |           V1.0.0 |         |
+| w06       | walking  |             10 | urban       |           V1.0.0 |         |
+| w07       | walking  |             30 | meadow      |           V1.0.0 |         |
+| w08       | walking  |             30 | meadow      |           V1.0.0 |         |
+| w09       | walking  |             45 | meadow      |           V1.0.0 |         |
+| w10       | walking  |             45 | meadow      |           V1.0.0 |         |
+| w11       | walking  |             50 | park        |           V2.0.0 |         |
+| w12       | walking  |             50 | park        |           V2.0.0 |         |
+| w13       | walking  |             50 | park        |           V2.0.0 |         |
+| w14       | walking  |             50 | park        |           V2.0.0 |         |
+| c00       | cycling  |             60 | urban+rural |           V1.0.0 |         |
+| c01       | cycling  |             60 | urban+rural |           V1.0.0 |         |
+| c02       | cycling  |             60 | urban+rural |           V1.0.0 |         |
+| c03       | cycling  |             35 | urban+rural |           V1.0.0 |         |
+| c04       | cycling  |             35 | urban+rural |           V1.0.0 |         |
+| c05       | cycling  |             35 | urban+rural |           V2.0.0 |         |
+| c06       | cycling  |             40 | urban+rural |           V1.0.0 |         |
+| c07       | cycling  |             40 | urban+rural |           V2.0.0 |         |
+| c08       | cycling  |             40 | urban+rural |           V1.0.0 |         |
+| c09       | cycling  |             16 | urban+rural |           V2.0.0 |         |
+| c10       | cycling  |             16 | urban+rural |           V2.0.0 |         |
+| c11       | cycling  |             16 | urban+rural |           V2.0.0 |         |
 
 ## Smoothing
 
