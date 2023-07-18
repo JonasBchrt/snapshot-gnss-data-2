@@ -93,7 +93,7 @@ If you use this dataset for work that results in a publication, consider citing 
 
 For this dataset:
 
-> Jonas Beuchert. 2023. SnapperGPS: Collection of GNSS Signal Snapshots 2. University of Oxford, Oxford, UK.
+> Jonas Beuchert. 2023. SnapperGPS: Collection of GNSS Signal Snapshots 2. University of Oxford, Oxford, UK. [http://dx.doi.org/10.5287/ora-xq5b8xva7)](http://dx.doi.org/10.5287/ora-xq5b8xva7).
 
 For the hardware used to create this dataset:
 
