@@ -1,4 +1,4 @@
-# snappergps-data-2
+# snapshot-gnss-data-2
 
 *Author: Jonas Beuchert*
 
