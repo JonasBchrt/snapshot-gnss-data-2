@@ -7,6 +7,7 @@
 - [Overview](#overview)
 - [Data](#data)
 - [Smoothing](#smoothing)
+- [Citation](#citation)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
@@ -81,6 +82,22 @@ Table: Median horizontal localisation errors of different smoothing algorithms c
 | 2D GPR            | 7.9 m            | 11.0 m     | 14.7 m     | 7.5 m            | 12.0 m     | 19.8 m     |
 | 2D FGO            | 8.1 m            | 10.4 m     | 13.6 m     | 7.5 m            | 11.6 m     | 14.6 m     |
 | Tight FGO         | 7.9 m            | 10.0 m     | 13.5 m     | 7.3 m            | 11.3 m     | 14.6 m     |
+
+## Citation
+
+If you use this dataset for work that results in a publication, consider citing one or more of the following:
+
+For this dataset:
+
+> Jonas Beuchert. 2023. SnapperGPS: Collection of GNSS Signal Snapshots 2. University of Oxford, Oxford, UK.
+
+For the hardware used to create this dataset:
+
+> Jonas Beuchert, Amanda Matthes, and Alex Rogers. 2023. SnapperGPS: Open Hardware for Energy-Efficient, Low-Cost Wildlife Location Tracking with Snapshot GNSS. Journal of Open Hardware, 7(1): 2, pp. 1–13. [https://doi.org/10.5334/joh.48](https://openhardware.metajnl.com/articles/10.5334/joh.48/).
+
+For the software/algorithms to create the baseline fixes:
+
+> Jonas Beuchert and Alex Rogers. 2021. SnapperGPS: Algorithms for Energy-Efficient Low-Cost Location Estimation Using GNSS Signal Snapshots. In SenSys ’21: ACM Conference on Embedded Networked Sensor Systems, November, 2021, Coimbra, Portugal. ACM, New York, NY, USA, 13 pages. [https://doi.org/10.1145/3485730.3485931](https://doi.org/10.1145/3485730.3485931).
 
 ## Acknowledgements
 
